@@ -792,6 +792,7 @@ xinput,XInput Controller,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,
 05000000110100002014000000780f00,Nimbus,a:b0,b:b1,x:b17,y:b2,leftshoulder:b3,rightshoulder:b18,leftx:a0,lefty:a1~,rightx:a2,righty:a3~,lefttrigger:b9,righttrigger:b10,platform:Android,
 050000004c050000cc09000000783f00,Sony Interactive Entertainment Wireless Controller,a:b0,b:b1,x:b2,y:b3,back:b4,start:b6,leftstick:b7,rightstick:b8,leftshoulder:b9,rightshoulder:b10,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a2,righty:a3,lefttrigger:a4,righttrigger:a5,platform:Android,
 05000000550900001472000000783f00,NVIDIA Controller v01.04,a:b0,b:b1,x:b2,y:b3,back:b4,guide:b6,rightstick:b8,leftshoulder:b9,rightshoulder:b10,dpup:-a1,dpdown:+a1,dpleft:-a0,dpright:+a0,-leftx:b13,+leftx:b14,-lefty:b11,+lefty:b12,rightx:a2,righty:a5,lefttrigger:a3,righttrigger:a4,platform:Android,
+050000004c050000c405000000783f00,Sony Computer Entertainment Wireless Controller,a:b0,b:b1,x:b2,y:b3,back:b4,guide:b5,start:b6,leftstick:b7,rightstick:b8,leftshoulder:b9,rightshoulder:b10,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a2,righty:a3,lefttrigger:a4,righttrigger:a5,platform:Android,
 
 
 # iOS
