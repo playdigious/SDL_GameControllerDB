@@ -890,6 +890,8 @@ xinput,XInput Controller,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,
 7573622067616d657061642020202020,NEXT SNES Controller,a:b2,b:b1,back:b8,dpdown:+a1,dpleft:-a0,dpright:+a0,dpup:-a1,leftshoulder:b4,rightshoulder:b6,start:b9,x:b3,y:b0,platform:Android,
 050000004919000002040000ffff3f00,Generic Android Gamepads,a:b0,b:b1,x:b2,y:b3,back:b4,start:b6,leftstick:b7,rightstick:b8,leftshoulder:b9,rightshoulder:b10,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a2,righty:a3,lefttrigger:a4,righttrigger:a5,platform:Android,
 050000007e05000009200000ffff0f00,Pro Controller,a:b0,b:b1,x:b17,y:b2,back:b15,guide:b5,start:b16,leftstick:b4,rightstick:b6,leftshoulder:b3,rightshoulder:b18,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a2,righty:a3,lefttrigger:b9,righttrigger:b10,platform:Android,
+0500000011010000201400000f7e0f00,Nimbus,platform:Android,a:b0,b:b1,x:b17,y:b2,leftshoulder:b3,rightshoulder:b18,leftx:a0,lefty:a1~,rightx:a2,righty:a3~,lefttrigger:b9,righttrigger:b10,
+050000003636323054a183220ffe0f00,Nimbus+,platform:Android,a:b13,b:b1,x:b17,y:b2,leftstick:b15,rightstick:b16,leftshoulder:b3,rightshoulder:b18,leftx:a0,lefty:a1~,rightx:a2,righty:a3~,lefttrigger:b9,righttrigger:b10,
 
 
 # Chromebook
